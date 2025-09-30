@@ -1,7 +1,7 @@
-## EAE PESSOAL 👋
+## QUEM SOU EU👋
 
 <!--
-Olá! Sou um estudante de Desenvolvimento de Sistemas pela ETEC, com uma base sólida em programação e um grande entusiasmo por projetos inovadores.
+Olá! Me chamo Daniel Lima da Silva. Sou um estudante de Desenvolvimento de Sistemas pela ETEC, com uma base sólida em programação e um grande entusiasmo por projetos inovadores.
 Busco uma oportunidade para aplicar e expandir minhas habilidades em uma empresa de tecnologia ou desenvolvimento de sistemas.
 Minhas qualificações incluem:
 
